@@ -11,4 +11,4 @@ print(f"{num1} {operation} {num2} = ", end="")
 # Perform calculation directly based on the operation
 result = num1 + num2 if operation == "+" else num1 - num2 if operation == "-" else num1 * num2 if operation == "*" else num1 / num2
 
-print(result)
+print(result);
